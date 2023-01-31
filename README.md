@@ -1,7 +1,7 @@
 # README.md - Clone Netflix 📺
 ![aaaaa](https://user-images.githubusercontent.com/85243693/179553786-8f617f26-f49a-4e5d-814f-da54ec246893.gif)
 ## Description 📜
-Clone Netflix is a project that aims to replicate the look and feel of the popular streaming platform Netflix. The project showcases the use of HTML, CSS, ReactJS and JavaScript in creating a dynamic and interactive user interface.
+Clone Netflix is a project that aims to replicate the look and feel of the popular streaming platform Netflix. The project showcases the use of HTML, CSS, ReactJS and JavaScript in creating a dynamic and interactive user interface. Project in Reactjs consuming the TMDB API to display the movie and series catalogs, where each selected catalog displays its own trailer on YouTube.
 
 ## Used Technologies 🛠️
 - HTML
